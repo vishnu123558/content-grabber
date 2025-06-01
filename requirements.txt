@@ -1,0 +1,10 @@
+requests
+ttkthemes
+reportlab
+beautifulsoup4
+PyPDF2
+transformers
+torch
+tqdm
+googlesearch-python
+playsound
